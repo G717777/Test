@@ -169,4 +169,5 @@ SimulateGame(Input* input, float dt, float speed)
 	DrawRec(-posX, pos1, playerHSX, playerHSY, 0xff789684); //paddle 2
 
 	DrawRec(ballX, ballY, ballHSX, ballHSY, 0x00FFFFFF); // ball
+	//b1 changes
 }	
